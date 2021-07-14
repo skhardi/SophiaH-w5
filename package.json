@@ -1,0 +1,24 @@
+{
+  "name": "w5-node",
+  "version": "1.0.0",
+  "description": "Bringing JavaScript to the backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Instaboost-Media-Web-Dev-Internship/w5-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Instaboost-Media-Web-Dev-Internship/w5-Node/issues"
+  },
+  "homepage": "https://github.com/Instaboost-Media-Web-Dev-Internship/w5-Node#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1",
+    "nodemon": "^2.0.12"
+  }
+}
